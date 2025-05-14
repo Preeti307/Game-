@@ -30,7 +30,7 @@ int main()
 
     if (yourchoice == computerchoice)
     {
-        printf("sorry,no one is winner :|");
+        printf("sorry,no one is winner :|\n");
     }
     else if ((yourchoice == 0 && computerchoice == 2) ||
              (yourchoice == 1 && computerchoice == 0) ||
@@ -42,6 +42,6 @@ int main()
     {
         printf(":) Computer Wins!\n");
     }
-    printf("Developed by : Preeti Khatri");
+    printf("Developed by : Preeti Khatri\n");
     return 0;
 };
