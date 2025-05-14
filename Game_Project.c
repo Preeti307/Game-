@@ -42,6 +42,6 @@ int main()
     {
         printf(":) Computer Wins!\n");
     }
-
+    printf("Developed by : Preeti Khatri");
     return 0;
 };
